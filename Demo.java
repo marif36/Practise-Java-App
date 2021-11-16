@@ -1,3 +1,6 @@
 class Main {
-  system.out.println("Master_branch");
+
+  public static void main (String[] args){
+        system.out.println("Master_branch");
+  }
 }
